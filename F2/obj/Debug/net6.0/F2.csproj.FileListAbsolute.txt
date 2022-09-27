@@ -1,0 +1,5 @@
+C:\Users\pantera\Desktop\C7#\Fail\F2\obj\Debug\net6.0\F2.csproj.AssemblyReference.cache
+C:\Users\pantera\Desktop\C7#\Fail\F2\obj\Debug\net6.0\F2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pantera\Desktop\C7#\Fail\F2\obj\Debug\net6.0\F2.AssemblyInfoInputs.cache
+C:\Users\pantera\Desktop\C7#\Fail\F2\obj\Debug\net6.0\F2.AssemblyInfo.cs
+C:\Users\pantera\Desktop\C7#\Fail\F2\obj\Debug\net6.0\F2.csproj.CoreCompileInputs.cache
