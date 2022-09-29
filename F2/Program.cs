@@ -5,14 +5,14 @@
 // 8 4 2 4
 // Среднее арифметическое каждого столбца: 4,6; 5,6; 3,6; 3
 
-Console.Write("Mассив из целых чисел");
+Console.WriteLine("Введите размер m: ");
+int m = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите размер n: ");
+int n = Convert.ToInt32(Console.ReadLine());
 
+int [,] arrayWhole = new int[m, n];
+for (int i = 0; i < n; i++)
 int[,] arrayWhole = new int[m, n];
-arrayWhole = arrayWhole(array);
-
-WriteArrayInt(arrayWhole);
-
-Console.Write($"Cреднее арифметическое: ");
 for (int i = 0; i < n; i++)
 {
   double arithmeticMean = 0;
